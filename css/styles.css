@@ -34,6 +34,8 @@ cursor: pointer;
 
 /*header*/
 
+
+
 .page-header {
 border-bottom: 1px solid #e7e9fc;
 align-items: center;
@@ -120,6 +122,10 @@ gap: 40px;
 /*main*/
 
 
+
+/*section 1*/
+
+
 .hero-image {
  background-color: #2e2f42;
  padding: 188px 0 188px;
@@ -162,6 +168,11 @@ gap: 40px;
 }
 
 
+
+
+/*section 2*/
+
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -184,11 +195,10 @@ width: 264px;
 
 .section-one-list {
 flex-basis: calc((100% - 72px) /4));
-display: flex;
 gap: 24px;
 justify-content: center;
+display: flex;
 }
-
 
 .section-one-title {
   font-weight: 500;
@@ -207,7 +217,11 @@ justify-content: center;
   color: #434455;
   
 }
+ 
 
+
+
+/*section 3*/
 
 .ourteam {
   background: #f4f4fd;
@@ -255,6 +269,11 @@ justify-content: center;
   text-align: center;
   color: #434455;
 }
+
+
+/*section 4*/
+
+
 
 .div-list {
 justify-content: center;
@@ -315,7 +334,7 @@ padding-bottom: 120px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   display: inline-block;
-
+  margin-bottom: 16px;
 }
 
 .logo-part {
@@ -326,7 +345,7 @@ padding-bottom: 120px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  margin-bottom: 16px; 
+  
 }
 
 .text-footer {
