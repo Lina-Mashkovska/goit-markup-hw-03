@@ -195,7 +195,7 @@ flex-basis: calc((100% - 72px) /4));
 
 }
 
-.section-one list {
+.section-one {
 display: flex; 
 gap: 24px;
 margin-right: 0 
