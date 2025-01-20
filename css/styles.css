@@ -256,7 +256,7 @@ margin-right: 0
   display: flex;
   gap: 24px;
   flex-basis: calc((100% - 72px) / 4))
-  padding: 32px 0
+  padding: 32px 0;
 
 }
 
@@ -287,8 +287,8 @@ margin-right: 0
 
 
 .div-list {
-  padding: 32px 16px 
-  border: 1px solid #e7e9fc
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
   }
 .section-portfolio {
 padding-top: 120px;
