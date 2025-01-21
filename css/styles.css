@@ -359,7 +359,7 @@ padding: 120px 0;
 }
 
 
-.footer-logo .logo-part {
+ .logo-part {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -367,8 +367,6 @@ padding: 120px 0;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  margin-bottom: 16px;
-  display: inline-block;
   
 }
 
@@ -378,4 +376,9 @@ padding: 120px 0;
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width:264px;
+}
+.footer-logo {
+  margin-bottom: 16px;
+  display: inline-block;
+
 }
